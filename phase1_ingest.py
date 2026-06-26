@@ -4,28 +4,7 @@ import logging
 import os
 import time
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
-from data_collector.worker import fetch_and_update, init_db as init_collector_db
-
-# --- CONFIGURATION ---
-DB_PATH = "havengrid_server.db"
-TIMEZONE = "UTC"
-SYMBOLS = ["BTC/USDT", "ETH/USDT", "SOL/USDT"]
-TIMEFRAMES = ["15m", "1h"]
-
-logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
-logger = logging.getLogger("Phase1Ingest")
-
-def init_db():
-    conn = sqlite3.connect(DB_PATH)
-    cursor = conn.cursor()
-    cursor.execute('''
-        CREATE TABLE IF NOT EXISTS aggregated_ohlcv (
-            ts INTEGER,
-            symbol TEXT,
-            timeframe TEXT,
-            open_avg REAL,
-            high_avg REAL,
-            low_avg REAL,
+from data_collec
             close_avg REAL
         )
     ''')
