@@ -1,0 +1,839 @@
+2026-06-26 02:55:04,136 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:55:04,137 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:55:04,139 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:55:09,137 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:55:09,138 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:55:09,140 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:55:14,138 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:55:14,138 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:55:14,141 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:55:19,141 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:55:19,141 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:55:19,141 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:55:24,142 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:55:24,142 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:55:24,142 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:55:29,143 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:55:29,143 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:55:29,143 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:55:34,143 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:55:34,144 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:55:34,144 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:55:39,144 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:55:39,144 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:55:39,144 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:55:44,145 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:55:44,145 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:55:44,145 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:55:49,145 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:55:49,146 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:55:49,146 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:55:54,146 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:55:54,146 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:55:54,146 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:55:59,146 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:55:59,147 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:55:59,147 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:56:04,147 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:56:04,147 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:56:04,147 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:56:09,148 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:56:09,148 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:56:09,148 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:56:14,148 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:56:14,149 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:56:14,149 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:56:19,149 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:56:19,149 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:56:19,149 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:56:24,149 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:56:24,150 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:56:24,150 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:56:29,150 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:56:29,151 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:56:29,151 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:56:34,151 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:56:34,151 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:56:34,151 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:56:39,151 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:56:39,152 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:56:39,152 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:56:44,152 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:56:44,153 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:56:44,153 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:56:49,152 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:56:49,153 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:56:49,153 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:56:54,153 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:56:54,153 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:56:54,153 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:56:59,153 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:56:59,154 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:56:59,154 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:57:04,154 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:57:04,154 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:57:04,154 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:57:09,154 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:57:09,155 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:57:09,155 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:57:14,154 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:57:14,155 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:57:14,155 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:57:19,155 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:57:19,155 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:57:19,156 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:57:24,155 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:57:24,155 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:57:24,156 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:57:29,156 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:57:29,156 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:57:29,157 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:57:34,156 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:57:34,157 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:57:34,157 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:57:39,157 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:57:39,158 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:57:39,158 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:57:44,157 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:57:44,158 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:57:44,158 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:57:49,158 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:57:49,158 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:57:49,158 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:57:54,158 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:57:54,159 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:57:54,159 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:57:59,158 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:57:59,159 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:57:59,159 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:58:04,159 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:58:04,159 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:58:04,160 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:58:09,160 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:58:09,160 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:58:09,160 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:58:14,161 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:58:14,161 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:58:14,161 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:58:19,161 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:58:19,162 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:58:19,162 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:58:24,162 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:58:24,162 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:58:24,162 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:58:29,162 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:58:29,163 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:58:29,163 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:58:34,163 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:58:34,163 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:58:34,163 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:58:39,163 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:58:39,164 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:58:39,164 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:58:44,164 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:58:44,164 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:58:44,164 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:58:49,165 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:58:49,165 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:58:49,165 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:58:54,165 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:58:54,166 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:58:54,166 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:58:59,166 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:58:59,166 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:58:59,166 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:59:04,166 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:59:04,166 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:59:04,167 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:59:09,167 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:59:09,167 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:59:09,167 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:59:14,168 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:59:14,168 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:59:14,168 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:59:19,168 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:59:19,168 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:59:19,168 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:59:24,169 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:59:24,169 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:59:24,169 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:59:29,169 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:59:29,169 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:59:29,169 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:59:34,170 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:59:34,170 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:59:34,170 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:59:39,170 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:59:39,171 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:59:39,171 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:59:44,171 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:59:44,172 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:59:44,172 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:59:49,172 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:59:49,172 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:59:49,172 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:59:54,172 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:59:54,172 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:59:54,172 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 02:59:59,172 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 02:59:59,173 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 02:59:59,173 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:00:04,173 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:00:04,173 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:00:04,174 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:00:09,173 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:00:09,174 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:00:09,174 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:00:14,174 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:00:14,174 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:00:14,174 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:00:19,175 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:00:19,175 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:00:19,175 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:00:24,175 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:00:24,175 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:00:24,175 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:00:29,176 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:00:29,176 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:00:29,176 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:00:34,176 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:00:34,177 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:00:34,177 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:00:39,177 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:00:39,177 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:00:39,177 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:00:44,177 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:00:44,177 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:00:44,178 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:00:49,178 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:00:49,178 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:00:49,178 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:00:54,179 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:00:54,179 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:00:54,179 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:00:59,179 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:00:59,180 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:00:59,180 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:01:04,180 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:01:04,180 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:01:04,180 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:01:09,180 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:01:09,181 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:01:09,181 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:01:14,181 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:01:14,182 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:01:14,182 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:01:19,182 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:01:19,182 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:01:19,182 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:01:24,182 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:01:24,183 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:01:24,183 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:01:29,183 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:01:29,183 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:01:29,183 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:01:34,183 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:01:34,184 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:01:34,184 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:01:39,185 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:01:39,185 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:01:39,185 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:01:44,186 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:01:44,186 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:01:44,186 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:01:49,186 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:01:49,186 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:01:49,186 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:01:54,187 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:01:54,187 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:01:54,187 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:01:59,187 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:01:59,187 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:01:59,187 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:02:04,188 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:02:04,188 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:02:04,188 - ERROR - CRASH in phase2_gateway: name 'asyncio' is not defined
+2026-06-26 03:02:05,957 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:02:05,958 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:02:09,451 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:02:10,958 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:02:10,958 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:02:14,453 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:02:15,958 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:02:15,959 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:02:19,454 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:02:20,959 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:02:20,959 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:02:24,456 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:02:25,959 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:02:25,959 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:02:29,458 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:02:30,960 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:02:30,960 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:02:34,460 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:02:35,961 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:02:35,961 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:02:39,462 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:02:40,961 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:02:40,961 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:02:44,464 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:02:45,962 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:02:45,962 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:02:49,466 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:02:50,962 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:02:50,963 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:02:54,469 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:02:55,964 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:02:55,964 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:02:59,470 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:03:00,964 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:03:00,964 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:03:04,472 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:03:05,965 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:03:05,965 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:03:09,473 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:03:10,965 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:03:10,965 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:03:14,475 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:03:15,966 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:03:15,966 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:03:19,477 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:03:20,966 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:03:20,966 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:03:24,479 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:03:25,967 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:03:25,967 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:03:29,480 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:03:30,968 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:03:30,968 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:03:34,483 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:03:35,968 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:03:35,968 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:03:39,484 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:03:40,969 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:03:40,969 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:03:44,486 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:03:45,969 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:03:45,969 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:03:49,487 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:03:50,970 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:03:50,970 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:03:54,490 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:03:55,970 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:03:55,971 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:03:59,492 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:04:00,971 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:04:00,971 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:04:04,493 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:04:05,971 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:04:05,972 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:04:09,496 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:04:10,972 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:04:10,972 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:04:14,496 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:04:15,972 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:04:15,973 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:04:19,499 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:04:20,973 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:04:20,973 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:04:24,502 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:04:25,974 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:04:25,974 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:04:29,504 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:04:30,975 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:04:30,975 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:04:34,506 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:04:35,975 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:04:35,975 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:04:39,507 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:04:40,976 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:04:40,976 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:04:44,510 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:04:45,976 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:04:45,977 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:04:49,512 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:04:50,977 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:04:50,977 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:04:54,513 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:04:55,977 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:04:55,978 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:04:59,515 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:05:00,978 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:05:00,978 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:05:04,519 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:05:05,978 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:05:05,979 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:05:09,521 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:05:10,979 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:05:10,979 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:05:14,523 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:05:15,980 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:05:15,980 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:05:19,525 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:05:20,981 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:05:20,981 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:05:24,527 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:05:25,981 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:05:25,981 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:05:29,530 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:05:30,982 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:05:30,982 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:05:34,531 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:05:35,983 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:05:35,983 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:05:39,533 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:05:40,983 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:05:40,983 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:05:44,535 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:05:45,983 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:05:45,984 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:05:49,536 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:05:50,984 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:05:50,984 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:05:54,539 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:05:55,984 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:05:55,985 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:05:59,541 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:06:00,985 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:06:00,985 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:06:04,544 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:06:05,986 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:06:05,986 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:06:09,545 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:06:10,986 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:06:10,986 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:06:14,547 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:06:15,987 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:06:15,987 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:06:19,549 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:06:20,987 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:06:20,988 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:06:24,549 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:06:25,987 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:06:25,988 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:06:29,551 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:06:30,988 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:06:30,988 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:06:34,555 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:06:35,989 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:06:35,989 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:06:39,557 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:06:40,990 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:06:40,990 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:06:44,559 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:06:45,990 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:06:45,990 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:06:49,560 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:06:50,991 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:06:50,991 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:06:54,563 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:06:55,991 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:06:55,991 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:06:59,565 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:07:00,992 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:07:00,992 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:07:04,567 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:07:05,993 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:07:05,993 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:07:09,568 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:07:10,994 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:07:10,994 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:07:14,571 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:07:15,994 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:07:15,994 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:07:19,573 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:07:20,995 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:07:20,995 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:07:24,575 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:07:25,995 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:07:25,996 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:07:29,577 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:07:30,996 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:07:30,996 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:07:34,579 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:07:35,996 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:07:35,997 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:07:39,581 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:07:40,997 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:07:40,997 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:07:44,584 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:07:45,997 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:07:45,997 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:07:49,585 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:07:50,998 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:07:50,998 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:07:54,587 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:07:55,998 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:07:55,999 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:07:59,589 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:08:00,999 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:08:00,999 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:08:04,592 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:08:05,999 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:08:05,999 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:08:09,592 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:08:11,000 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:08:11,000 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:08:14,595 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:08:16,001 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:08:16,001 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:08:19,597 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:08:21,001 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:08:21,001 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:08:24,599 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:08:26,002 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:08:26,002 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:08:29,601 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:08:31,002 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:08:31,003 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:08:34,603 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:08:36,003 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:08:36,004 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:08:39,606 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:08:41,004 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:08:41,004 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:08:44,608 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:08:46,005 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:08:46,005 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:08:49,611 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:08:51,005 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:08:51,005 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:08:54,613 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:08:56,006 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:08:56,006 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:08:59,615 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:09:01,006 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:09:01,006 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:09:04,616 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:09:06,007 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:09:06,007 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:09:09,619 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:09:11,008 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:09:11,008 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:09:14,621 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:09:16,008 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:09:16,008 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:09:19,621 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:09:21,009 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:09:21,009 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:09:24,624 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:09:26,010 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:09:26,010 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:09:29,626 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:09:31,010 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:09:31,010 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:09:34,629 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:09:36,011 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:09:36,011 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:09:39,630 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:09:41,011 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:09:41,011 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:09:44,632 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:09:46,012 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:09:46,012 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:09:49,635 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:09:51,012 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:09:51,013 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:09:54,636 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:09:56,013 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:09:56,013 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:09:59,639 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:10:01,014 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:10:01,014 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:10:04,641 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:10:06,015 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:10:06,015 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:10:09,642 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:10:11,015 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:10:11,015 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:10:14,644 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:10:16,016 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:10:16,016 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:10:19,647 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:10:21,016 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:10:21,017 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:10:24,649 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:10:26,017 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:10:26,017 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:10:29,651 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:10:31,017 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:10:31,017 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:10:34,026 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:10:34,026 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:10:34,523 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:10:39,027 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:10:39,028 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:10:39,525 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:10:44,027 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:10:44,028 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:10:44,527 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:10:49,028 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:10:49,028 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:10:49,528 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:10:54,028 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:10:54,028 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:10:54,530 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:10:59,029 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:10:59,029 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:10:59,532 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:11:04,030 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:11:04,030 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:11:04,534 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:11:09,031 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:11:09,031 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:11:09,536 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:11:14,031 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:11:14,031 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:11:14,538 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:11:19,032 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:11:19,032 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:11:19,541 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:11:24,032 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:11:24,032 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:11:24,543 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:11:29,033 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:11:29,033 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:11:29,544 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:11:34,033 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:11:34,033 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:11:34,546 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:11:39,033 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:11:39,034 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:11:39,549 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:11:44,034 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:11:44,034 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:11:44,551 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:11:49,035 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:11:49,035 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:11:49,553 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:11:54,035 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:11:54,035 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:11:54,555 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:11:59,036 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:11:59,036 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:11:59,557 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:12:04,036 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:12:04,036 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:12:04,558 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:12:09,038 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:12:09,038 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:12:09,561 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:12:14,038 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:12:14,038 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:12:14,563 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:12:19,039 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:12:19,039 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:12:19,565 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:12:24,039 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:12:24,040 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:12:24,567 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:12:29,040 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:12:29,040 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:12:29,570 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:12:34,040 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:12:34,041 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:12:34,572 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:12:39,041 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:12:39,041 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:12:39,575 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:12:44,042 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:12:44,043 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:12:44,576 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:12:49,043 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:12:49,044 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:12:49,578 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:12:54,043 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:12:54,045 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:12:54,579 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:12:59,044 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:12:59,045 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:12:59,581 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:13:04,045 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:13:04,046 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:13:04,583 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:13:09,045 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:13:09,046 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:13:09,585 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:13:14,046 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:13:14,046 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:13:14,587 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:13:19,046 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:13:19,046 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:13:19,589 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:13:24,047 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:13:24,047 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:13:24,591 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:13:29,047 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:13:29,047 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:13:29,593 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:13:34,048 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:13:34,048 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:13:34,596 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:13:39,048 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:13:39,049 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:13:39,597 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:13:44,049 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:13:44,049 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:13:44,599 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:13:49,049 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:13:49,050 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:13:49,601 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:13:54,050 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:13:54,050 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:13:54,602 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:13:59,051 - ERROR - CRASH in phase1_ingest: name 'asyncio' is not defined
+2026-06-26 03:13:59,051 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:13:59,604 - ERROR - CRASH in phase2_gateway: no such table: aggregated_ohlcv
+2026-06-26 03:19:48,975 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:19:53,976 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:19:58,976 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:20:03,977 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:20:08,977 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:20:13,978 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:20:18,978 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:20:23,978 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:20:28,979 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:20:33,980 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:20:38,980 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:20:43,981 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:20:48,981 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:20:53,982 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:20:58,982 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:21:03,983 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:21:08,984 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:21:13,984 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:21:18,984 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:21:23,985 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:21:28,986 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:21:33,987 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:21:38,987 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:21:43,988 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:21:48,988 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:21:53,989 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:21:58,989 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:22:03,990 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:22:08,990 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:22:13,991 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:22:18,991 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:22:23,992 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:22:28,992 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:22:33,993 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:22:38,993 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:22:43,994 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:22:48,994 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:22:53,995 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:22:58,995 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:23:03,996 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:23:08,996 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:23:13,997 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:23:18,997 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:23:23,998 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:23:28,998 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:23:33,999 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:23:38,999 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:23:44,000 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:23:49,001 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:23:54,001 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:23:59,001 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:24:04,002 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:24:09,003 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:24:14,004 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:24:19,005 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:24:24,005 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:24:29,005 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:24:34,006 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:24:39,006 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:24:44,007 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:24:49,008 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:24:54,008 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:24:59,008 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:25:04,009 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:25:09,009 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:25:14,010 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:25:19,010 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:25:24,011 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:25:29,012 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:25:34,012 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:25:39,013 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:25:44,013 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:25:49,014 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:25:54,014 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:25:59,015 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:26:04,015 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:26:09,016 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:26:14,016 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:26:19,017 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:26:24,018 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:26:29,018 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:26:34,019 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:26:39,019 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:26:44,020 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:26:49,020 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:26:54,021 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:26:59,021 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:27:04,022 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:27:09,022 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:27:14,023 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:27:19,024 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:27:24,024 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:27:29,025 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:27:34,025 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:27:39,026 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:27:44,026 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:27:49,027 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:27:54,027 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:27:59,027 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:28:04,028 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:28:09,028 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:28:14,028 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:28:19,029 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:28:24,030 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:28:29,030 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:28:34,031 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:28:39,031 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:28:44,032 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:28:49,032 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:28:54,033 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:28:59,033 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:29:04,033 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:29:09,034 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:29:14,035 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:29:19,035 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:29:24,035 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:29:29,036 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:29:34,037 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:29:39,037 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:29:44,038 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:29:49,038 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:29:54,038 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:29:59,039 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:30:04,040 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:30:09,040 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:30:14,040 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:30:19,041 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:30:24,042 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:30:29,042 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:30:34,043 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:30:39,043 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:30:44,044 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:30:49,044 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:30:54,045 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:30:59,046 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:31:04,046 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:31:09,046 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:31:14,047 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:31:19,047 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:31:24,047 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:31:29,048 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:31:34,049 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:31:39,050 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:31:44,050 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:31:49,050 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:31:54,051 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:31:59,051 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:32:04,052 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:32:09,052 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:32:14,053 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:32:19,053 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:32:24,054 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
+2026-06-26 03:32:29,054 - ERROR - CRASH in phase3_notifications: name 'asyncio' is not defined
